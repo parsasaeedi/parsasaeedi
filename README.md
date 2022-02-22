@@ -90,7 +90,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=parsasaeedi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="centre">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parsasaeedi&show_icons=true&count_private=true&hide_border=true"/>
+</div>
+<div align="centre">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parsasaeedi&hide_border=true" />
+</div>
 
 <br/>
 
