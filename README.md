@@ -12,7 +12,7 @@
 - ❓ Ask me about anything  
   
 
-- 📫 How to reach me: [Email me!](mailto:psaeedi1381@gmail.com)  
+- 📫 How to reach me: [psaeedi1381@gmail.com](mailto:psaeedi1381@gmail.com)  
   
 
 - 😄 Pronouns: He/Him  
