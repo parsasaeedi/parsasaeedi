@@ -57,13 +57,12 @@
 </td><td valign="top" width="33%">
 
 
-
 ### Tools  
 <div align="center">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
   <img style="margin: 10px" src="https://user-images.githubusercontent.com/48306717/155207865-486e8fbb-0345-4c8f-aed4-d51cb78b9e86.png" alt="Git" height="50" />
   <img style="margin: 10px" src="https://user-images.githubusercontent.com/48306717/155208820-64892bf3-896a-4377-a5fe-1e6039349777.png" alt="IntelliJ" height="50" />
-  <img style="margin: 10px" src="https://user-images.githubusercontent.com/48306717/155210194-ebb4a32b-9f8c-44ba-a9d3-2cb5970a8cee.png" alt="RStudio" height="50" />
+  <img style="margin: 10px" src="https://user-images.githubusercontent.com/48306717/155211020-fa428a65-96e1-435a-a1e4-3754cd1b52fd.png" alt="RStudio" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
   <img style="margin: 10px" src="https://user-images.githubusercontent.com/48306717/155207477-8d4c6703-84e9-4a21-8459-4e7f011a2bde.png" alt="Bash" height="50" />  
