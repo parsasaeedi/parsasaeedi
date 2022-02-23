@@ -70,37 +70,14 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/parsasaeedi" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/parsa_sdi_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+</td></tr></table>   
   
 
 <br/>  
 
 
 ## Github Stats  
-<!-- <div align="centre">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parsasaeedi&show_icons=true&count_private=true&hide_border=true"/>
-</div>
-<div align="centre">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parsasaeedi&hide_border=true" />
-</div> -->
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parsasaeedi&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parsasaeedi&theme=tokyonight&hide_border=true"/>
 </p>
-
-<br/>
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
