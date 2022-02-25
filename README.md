@@ -5,25 +5,16 @@
 
 - 🔭 I’m currently working on my portfolio website  
   
-
 - 🌱 I’m currently learning C, C++, and Assembly  
   
-
 - ❓ Ask me about anything  
-  
 
 - 📫 How to reach me: [psaeedi1381@gmail.com](mailto:psaeedi1381@gmail.com)  
   
-
 - 😄 Pronouns: He/Him  
   
-
 - ⚡ Fun fact: I play the guitar  
   
-
-<br/>  
-
-
 ## My Skill Set  
 <table style="border: none;"><tr><td valign="top" width="33%">
 
@@ -71,10 +62,6 @@
 </div>
 
 </td></tr></table>   
-  
-
-<br/>  
-
 
 ## Github Stats  
 <p align="center">
