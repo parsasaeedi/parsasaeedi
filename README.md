@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my portfolio website  
   
-- 🌱 I’m currently learning C, C++, and Assembly  
+- 🌱 I’m currently learning React and Unity  
   
 - ❓ Ask me about anything  
 
