@@ -4,17 +4,17 @@
   
 - 💻 I'm a second-year computer science student at the University of British Columbia
 
-- 🔭 I’m currently working on my portfolio website  
+- 💼 I'm available for winter co-ops starting in December
   
-- 🌱 I’m currently learning React and Unity  
-  
-- ❓ Ask me about anything  
+- 🌱 I’m currently learning React and AI
 
-- 📫 How to reach me: [psaeedi1381@gmail.com](mailto:psaeedi1381@gmail.com)  
+- 📫 How to reach me: [contact@parsa.dev](mailto:contact@parsa.dev)  
+
+- 📁 Checkout my portfolio: [www.parsa.dev](https://www.parsa.dev)
+
+- 📄 Take a look at my [resume](https://www.parsa.dev)
   
-- 😄 Pronouns: He/Him  
-  
-- ⚡ Fun fact: I play the guitar  
+- 😄 Pronouns: He/Him   
 
 ## My Skill Set  
 
