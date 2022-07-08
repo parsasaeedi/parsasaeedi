@@ -12,7 +12,7 @@
 
 - 📁 Checkout my portfolio: [www.parsa.dev](https://www.parsa.dev)
 
-- 📄 Take a look at my [resume](https://www.parsa.dev)
+- 📄 Take a look at my [resume](https://www.parsa.dev/Resume.pdf)
   
 - 😄 Pronouns: He/Him   
 
