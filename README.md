@@ -4,17 +4,13 @@
   
 - 💻 I'm a second-year computer science student at the University of British Columbia
 
-- 💼 I'm available for winter co-ops starting in December
-  
-- 🌱 I’m currently learning React and AI
+- 🔭 Looking for summer 2024 internships
 
 - 📫 How to reach me: [contact@parsa.dev](mailto:contact@parsa.dev)  
 
 - 📁 Checkout my portfolio: [www.parsa.dev](https://www.parsa.dev)
 
-- 📄 Take a look at my [resume](https://www.parsa.dev/Resume.pdf)
-  
-- 😄 Pronouns: He/Him   
+- 📄 Take a look at my [resume](https://www.parsa.dev/Resume.pdf) 
 
 ## My Skill Set  
 
