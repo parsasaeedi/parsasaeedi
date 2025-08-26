@@ -2,9 +2,7 @@
 <img src="https://user-images.githubusercontent.com/48306717/155200210-6c0d3de4-431e-4ea4-b667-a4320b93f5d7.png" align="center" style="width: 100%" />
 </div>  
   
-- 💻 I'm a third-year computer science student at the University of British Columbia
-
-- 🔭 Looking for summer 2024 internships
+- 💻 I'm a fourth-year computer science student at the University of British Columbia
 
 - 📫 How to reach me: [contact@parsa.dev](mailto:contact@parsa.dev)  
 
